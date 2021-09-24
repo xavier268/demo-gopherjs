@@ -1,4 +1,4 @@
-module github.com/xavier/gopherjs-experiment
+module github.com/xavier/demo-gopherjs
 
 go 1.17
 
