@@ -1,5 +1,5 @@
 # demo-gopherjs
 
-Just basic experiments with gopherjs.
+A few basic experiments with gopherjs.
 
-Use the file named ./RunXxxxx.sh to experiment various demos.
+On Linux, use the file(s) named ./Run_____.sh to experiment with the various demos.
